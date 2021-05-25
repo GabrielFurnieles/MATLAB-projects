@@ -1,4 +1,4 @@
-# MATLAB-proyects
+# MATLAB-projects
 The objective of these projects is to give a precise and effective solution to different problems using mathematical concepts and knowledges.
 All of them have been developed as a team together with other colleagues.
 
